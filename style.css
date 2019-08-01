@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+#pokedex, #pokemons {
+  display: inline-block;
+}
+
+#pokedex {
+  width: 400px;
+  background-color: red;
+}
